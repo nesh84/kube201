@@ -1,0 +1,6 @@
+
+CREATE TABLE IF NOT EXISTS User (
+  uid VARCHAR(10) NOT NULL,
+  uname VARCHAR(50) NOT NULL
+);
+

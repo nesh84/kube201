@@ -1,0 +1,4 @@
+com\boot\kube\demo\kube\App.class
+com\boot\kube\demo\kube\controller\UserController.class
+com\boot\kube\demo\kube\model\User.class
+com\boot\kube\demo\kube\dao\UserDao.class
